@@ -1,0 +1,1 @@
+export const BASE_IMG_URL = 'http://localhost:3000/api3/upload/' // 上传图片的基础路径
