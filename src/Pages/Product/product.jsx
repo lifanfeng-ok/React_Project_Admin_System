@@ -6,7 +6,14 @@ import ProductAddUpdate from './product_add'
 import ProductDetail from './product_detail'
 
 class Product extends Component {
-    state = {  }
+    constructor(props) {
+        super(props);
+        let s1 = Symbol('test')
+        this.state = {
+             [s1]: 'test',
+             name: 'test'
+        }
+    }
     render() {
         return (
             <Switch>
