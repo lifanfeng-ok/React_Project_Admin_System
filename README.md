@@ -72,7 +72,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 参考学习 尚硅谷前端学习视频项目 https://github.com/zxfjd3g/190105_ReactAdmin
 
-Not include server(server could be found in https://github.com/zxfjd3g/190105_ReactAdmin )
+Background management system： including `user management`, `commodity classification management`, `commodity management`, `role authority management`
+
+(`server could be found in https://github.com/zxfjd3g/190105_ReactAdmin` (use node.js and MongoDB) )
 
 ![TJC4LF8685%$PGNNND1@QA3](https://user-images.githubusercontent.com/74596877/161684931-d819f373-2f74-482e-bfad-f6d6cfdaff57.png)
 
